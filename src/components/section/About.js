@@ -17,7 +17,13 @@ const About = () => {
             </div>
             </div>
             <div id="Skills"> 
+                <>
+                    <div className="pp-head-line mx-auto text-center third">
+                        <h1 id="Projects" className="red-line pp-head">Skills</h1>
+                    </div>
+                </>
                 <div className="row d-flex justify-content-center skills">
+                    
                     {skillsBar.map((x) => 
                         <Skills key={x.name} faClass={x.faClass} svg={x.svg} label={x.name}/>
                     )}̀

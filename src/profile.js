@@ -24,6 +24,7 @@ const about = {
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
+const section1title = "Skills";
 const skillsBar = [
   {
     name: "HTML5",
@@ -167,7 +168,7 @@ const social = {
   // twitter: "https://twitter.com",
   instagram: "#",
   linkedin: "#",
-  resume: "https://novoresume.com/",
+  resume: "/resume.pdf",
 };
 // Dont change anything here
 export {
