@@ -163,10 +163,10 @@ const contact = {
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
   github: "https://github.com",
-  facebook: "https://facebook.com",
+  facebook: "#",
   // twitter: "https://twitter.com",
-  instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
+  instagram: "#",
+  linkedin: "#",
   resume: "https://novoresume.com/",
 };
 // Dont change anything here
