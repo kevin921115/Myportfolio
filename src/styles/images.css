@@ -1,0 +1,32 @@
+
+/* Add your profile image here */
+.Photo{
+    /* background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'); */
+    background-image: url('');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('../static/project1.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('../static/project2.png');
+    cursor: none;
+}
+.project3{
+    background-image: url('../static/project3.png');
+    cursor: none;
+}
+.project4{
+    background-image: url('../static/project4.png');
+    cursor: none;
+}
+.project5{
+    background-image: url('../static/project5.png');
+    cursor: none;
+}
+.project6{
+    background-image: url('../static/project6.png');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
