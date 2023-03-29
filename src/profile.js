@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Kevin Alex",
+  name: "a Kevin Son",
 };
 const background = {
   // Options: Snow or Particle
@@ -157,7 +157,7 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch:
     "Whether you want to get in touch, talk about a project collaboration, or just say hi, I'd love to hear from you. Simply fill the from and send me an email.",
-  copyright: "Antonio Lee",
+  copyright: "Kevin Son",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it
