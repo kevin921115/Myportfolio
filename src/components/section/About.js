@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
 import Skills from '../layouts/Skills'
 import { about, skillsBar, section2title } from '../../profile'
